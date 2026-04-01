@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1775054949430" clover="3.2.0">
-  <project timestamp="1775054949431" name="All files">
+<coverage generated="1775056337942" clover="3.2.0">
+  <project timestamp="1775056337942" name="All files">
     <metrics statements="12" coveredstatements="12" conditionals="11" coveredconditionals="11" methods="1" coveredmethods="1" elements="24" coveredelements="24" complexity="0" loc="12" ncloc="12" packages="1" files="1" classes="1"/>
     <file name="calculadora.js" path="C:\Users\PEDRO\Desktop\faculdade\atividade 2 devOps\calculadora-desconto\calculadora.js">
       <metrics statements="12" coveredstatements="12" conditionals="11" coveredconditionals="11" methods="1" coveredmethods="1"/>
