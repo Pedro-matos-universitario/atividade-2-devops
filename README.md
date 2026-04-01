@@ -7,7 +7,7 @@ Projeto com testes unitários utilizando Jest.
 
  Valor < 100 → sem desconto
  100 a 500 → 10%
- > 500 → 20%
+ 500 → 20%
  VIP → +5%
  Valor negativo → erro
 
