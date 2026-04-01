@@ -1,9 +1,9 @@
 # Calculadora de Desconto
 
-## 📌 Descrição
+# Descrição
 Projeto com testes unitários utilizando Jest.
 
-## 📊 Regras de negócio
+# Regras de negócio
 
 - Valor < 100 → sem desconto
 - 100 a 500 → 10%
@@ -11,7 +11,7 @@ Projeto com testes unitários utilizando Jest.
 - VIP → +5%
 - Valor negativo → erro
 
-## 🧪 Testes
+# Testes
 
 Foram implementados 5 testes:
 - Sem desconto
@@ -20,11 +20,10 @@ Foram implementados 5 testes:
 - Cliente VIP
 - Valor negativo
 
-## 📸 Evidências
+# Evidências
 
-### Testes passando
+# Testes passando
 ![](teste.png)
 
-### Cobertura 100%
-(coloca print aqui)
+# Cobertura 100%
 ![](cobertura.png)
